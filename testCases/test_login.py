@@ -8,7 +8,8 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 
-class TestLogin():
+
+class TestLogin:
 
     @pytest.fixture
     def test_setup(self):

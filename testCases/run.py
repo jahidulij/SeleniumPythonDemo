@@ -23,6 +23,7 @@ obj.drag_and_drop_sliders()
 obj.bootstrap_alert_autocloseable()
 obj.bootstrap_alert_normal()
 obj.bootstrap_warning_autocloseable()
-# obj.window_popup_modal()
+
+obj.file_upload()
 
 obj.browser_close()

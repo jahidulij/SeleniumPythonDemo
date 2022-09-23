@@ -10,9 +10,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.action_chains import ActionChains
 
 
-class Form():
-
-
+class Form:
 
     def browser_opener(self):
         self.driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
@@ -350,7 +348,13 @@ class Form():
         # print(self.driver.title)
         # self.driver.switch_to.default_content()
 
-
-
+    def file_upload(self):
+        self.driver.get("https://the-internet.herokuapp.com/upload")
+        print(self.driver.title)
+        self.driver.find_element(By.ID, "file-upload").send_keys("C:/Users/JahidulIslam/PycharmProjects/pythonDemo/data/bird.png")
+        self.driver.find_element(By.ID, "file-submit").click()
+        success_message = self.driver.find_element(By.XPATH, "//h3[contains(text(),'File Uploaded!')]")
+        file_name = self.driver.find_element(By.ID, "uploaded-files")
+        print(success_message.text + " with name: " + file_name.text)
 
 time.sleep(2)

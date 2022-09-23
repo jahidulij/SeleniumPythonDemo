@@ -1,0 +1,100 @@
+
+=====================================
+Opening browser
+Clicked on No
+=====================================
+Opening browser
+Skipping
+=====================================
+Opening browser
+Skipping
+=====================================
+Closing the browser
+=====================================
+Opening browser
+Clicked on No
+=====================================
+Closing the browser
+=====================================
+Opening browser
+Skipping
+=====================================
+Opening browser
+Skipping
+=====================================
+Closing the browser
+=====================================
+Opening browser
+Clicked on No
+=====================================
+Your Message: Hello
+=====================================
+Sum: 79
+=====================================
+Checking the checkboxes
+=====================================
+Radio selected: Male
+Radio selected: Female
+Radio selected: Male
+Radio selected: Female
+Radio selected: 0 - 5
+Radio selected: 5 - 15
+Radio selected: 15 - 50
+=====================================
+Dropdown Options:                             Please select
+                            Sunday
+                            Monday
+                            Tuesday
+                            Wednesday
+                            Thursday
+                            Friday
+                            Saturday
+                        
+=====================================
+Multiselect: First selected option is : Florida
+=====================================
+Form Submitting
+=====================================
+Loading Text: Ajax Request is Processing!
+=====================================
+Date: 04/05/2022
+=====================================
+Jquery Date Picker
+=====================================
+Clicked on: «
+1
+2
+3
+=====================================
+Res: 2 jacobs Daniel Karano
+4 mikesali Byron Kathaniko
+=====================================
+Table Filter
+=====================================
+Name Position Office Age Start date Salary
+=====================================
+Progress Text: Starting download...
+Progress Text: Complete!
+=====================================
+Progress Text: 0%
+Progress Text: 100%
+=====================================
+Slider1: 10
+Slider1 Value: 10
+Slider1: 100
+Slider1 Value: 100
+=====================================
+=====================================
+Waiting for element...
+Message: I'm an autocloseable success message. I will hide in 5 seconds.
+=====================================
+=====================================
+Waiting for element...
+Message: ×
+I'm a normal success message. To close use the appropriate button.
+=====================================
+=====================================
+Waiting for element...
+Message: I'm an autocloseable warning message. I will hide in 3 seconds.
+=====================================
+Closing the browser
